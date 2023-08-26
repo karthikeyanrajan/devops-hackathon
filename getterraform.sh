@@ -4,7 +4,7 @@
 #run with cmd - bash getterraform.sh
 
 #To install git
-sudo yum install git
+sudo yum install git -y
 
 #To install Terraform
 
